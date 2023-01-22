@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zao4nik/react-shop/static/css/main.35934284.css",
+    "main.js": "/zao4nik/react-shop/static/js/main.0f5dd0c9.js",
+    "index.html": "/zao4nik/react-shop/index.html",
+    "main.35934284.css.map": "/zao4nik/react-shop/static/css/main.35934284.css.map",
+    "main.0f5dd0c9.js.map": "/zao4nik/react-shop/static/js/main.0f5dd0c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35934284.css",
+    "static/js/main.0f5dd0c9.js"
+  ]
+}
