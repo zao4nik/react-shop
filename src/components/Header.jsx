@@ -14,7 +14,7 @@ function Header() {
         >
           <li>
             <a
-              href="https://zao4nik.github.io/react-shop/"
+              href="https://github.com/zao4nik/react-shop"
               target="_blank"
               rel="noreferrer"
             >
